@@ -6,7 +6,7 @@ body {
     padding: 0;
 }
 
-header h1, header h3 {
+header {
     display: flex;
     flex-direction: column;
     justify-content: center; /* vertical centering */
